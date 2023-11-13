@@ -1,0 +1,8 @@
+
+                Receipt for User: ronit
+                Account Number: 1
+                Initial Balance: 900
+                Rate of Interest: 4%
+                Contact Number: 45
+                Address: mu
+            

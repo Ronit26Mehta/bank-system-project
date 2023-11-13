@@ -1,0 +1,8 @@
+
+                Receipt for User: ro
+                Account Number: 1
+                Initial Balance: 80
+                Rate of Interest: 1%
+                Contact Number: 1
+                Address: m
+            
